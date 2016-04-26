@@ -16,7 +16,7 @@ namespace test
         [STAThread]
         static void Main()
         {
-            //yay
+            //yayyyyyy
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new LoginBildschirm());
